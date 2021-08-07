@@ -1,4 +1,4 @@
-### Olá, sou a Franciane Lark... Seja bem vindo! 👋
+### I'm Fran... 👋
 
 Here are some ideas to get you started:
 
