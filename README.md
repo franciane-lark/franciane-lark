@@ -15,8 +15,8 @@ Here are some ideas to get you started:
   
 <!--  Parte 2 -->
   
-<!--
-<div style="display: inline_block"><br>
+
+<div style="display: inline-block"><br>
   <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fran-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Fran-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -30,7 +30,6 @@ Here are some ideas to get you started:
   <img align="right" alt="Fran-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 
--->
   
  <br>
   
