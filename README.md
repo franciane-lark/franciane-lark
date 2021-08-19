@@ -32,8 +32,9 @@ Here are some ideas to get you started:
 
   
  <br>
-  <! 
- <!--  Parte 3 -->
+  <!--  Parte 3 -->
+  <!-- 
+ 
  <div>
    <a href="https://www.youtube.com/channel/UC6R-xadnaCDyWgyG9dM2gAA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lark_tech" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -42,8 +43,8 @@ Here are some ideas to get you started:
   <a href = "mailto:franciane.lark019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/franciane-lark/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+  -->
   
 <!--  Parte 4  (Snake)-->
   
--->
-  
+
