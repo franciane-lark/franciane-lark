@@ -14,8 +14,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciane-lark&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
   
-<!--  Parte 2 -->
-  
+<!--  Parte 2 
+
 
 <div style="display: inline-block"><br>
   
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   <img align="right" alt="Fran-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 
+ -->
   
  <br>
   <!--  Parte 3 -->
