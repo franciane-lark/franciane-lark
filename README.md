@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 Trabalho com Front - End 
 - 🌱 Estudando JavaScript / React
-- 💚 Voluntária em Vue Coletivo Codivas 
+- 💚 Voluntária em Vue nas Codivas 
 - 💬 Pronouns: she/her
 
 <!--  Parte 1 -->
