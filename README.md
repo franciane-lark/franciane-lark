@@ -2,10 +2,11 @@
 
 Here are some ideas to get you started:
 
+- 💬 Pronouns: she/her
 - 🔭 Trabalho com Front - End 
 - 🌱 Estudando JavaScript / React
 - 💚 Voluntária em Vue nas Codivas 
-- 💬 Pronouns: she/her
+
 
 <!--  Parte 1 -->
 <div>
