@@ -3,9 +3,10 @@
 Here are some ideas to get you started:
 
 - 💬 Pronouns: she/her
-- 🔭 Trabalho com Front - End 
-- 🌱 Estudando JavaScript / React
-- 💚 Voluntária em Vue nas Codivas 
+- 🔭 Development Front - End 
+- 🌱 Studying JavaScript / React
+- 💚 Volunter in Vue like Codivas 
+- 📈 Talk in English Intermediary
 
 
 <!--  Parte 1 -->
