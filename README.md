@@ -1,12 +1,12 @@
 ### I'm Fran... 👋
 
-Here are some ideas to get you started:
+Welcome to my profile!
 
-- 💬 Pronouns: she/her
-- 🔭 Development Front - End 
-- 🌱 Studying JavaScript / React
-- 💚 Volunter in Vue like Codivas 
-- 📈 Talk in English Intermediary
+- 💬 Pronouns: She/Her
+- 🔭 Development Front - End J.r
+- 💚 Volunter in Vue at Codivas - Beginner
+- 🌱 Studying JS and React - Intermediary
+- 📈 Speaking in English - Intermediary
 
 
 <!--  Parte 1 -->
