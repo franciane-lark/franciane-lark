@@ -3,7 +3,7 @@
 Welcome to my profile!
 
 - 💬 Pronouns: She/Her
-- 🔭 Development Front - End J.r
+- 🔭 Development Front - End Jr
 - 💚 Volunter in Vue at Codivas - Beginner
 - 🌱 Studying JS and React - Beginner
 - 📈 Speaking in English - Intermediary
