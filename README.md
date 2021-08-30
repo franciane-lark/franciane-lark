@@ -27,7 +27,7 @@ Welcome to my profile!
   
   <img align="center" alt="Fran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
-  <img align="right" alt="Fran-yoda" height="300" width="150" src="img/fran-dev.jpg">
+  <img align="right" alt="Fran-yoda" height="300" width="250" src="img/fran-dev.jpg">
 
 </div>
 
