@@ -8,19 +8,16 @@ Welcome to my profile!
 - 🌱 Studying JS and React - Beginner
 - 📈 Speaking in English - Intermediary
 
-
 <!--  Parte 1 -->
 <div>
   <a href="https://github.com/franciane-lark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciane-lark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciane-lark&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
-  
-
 
 
 <div style="display: inline-block"><br>
-  
+
 
   <img align="center" alt="Fran-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
@@ -30,12 +27,10 @@ Welcome to my profile!
   
   <img align="center" alt="Fran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
-  <img align="right" alt="Fran-yoda" src="https://drive.google.com/file/d/1TiNFi_bZBFXqzapapDfbRqfKf68kkBi7/view?usp=sharing">
-
+  <img align="right" alt="Fran-yoda" src="img/fran-dev.jpg">
 
 </div>
 
-  
  <br>
   <!--  Parte 3 -->
  
@@ -50,5 +45,3 @@ Welcome to my profile!
  
   
 <!--  Parte 4  (Snake)-->
-  
-
