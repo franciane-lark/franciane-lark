@@ -9,6 +9,9 @@ Welcome to my profile!
 - 📈 Speaking in English - Intermediary
 
 <!--  Parte 1 -->
+
+ <img align="right" alt="Fran-Dev" height="80" width="100" src="img/fran-dev.jpg">
+ 
 <div>
   <a href="https://github.com/franciane-lark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciane-lark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -43,7 +46,7 @@ Welcome to my profile!
   <a href="https://www.linkedin.com/in/franciane-lark/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
- <br>
-    <img align="right" alt="Fran-Dev" height="80" width="100" src="img/fran-dev.jpg">
+ 
+   
   
 <!--  Parte 4  (Snake)-->
