@@ -10,7 +10,6 @@ Welcome to my profile!
 
 <!--  Parte 1 -->
 
- <img align="right" alt="Fran-Dev" height="80" width="100" src="img/fran-dev.jpg">
  
 <div>
   <a href="https://github.com/franciane-lark">
@@ -30,7 +29,7 @@ Welcome to my profile!
   
   <img align="center" alt="Fran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
- 
+  <img align="right" alt="Fran-Dev" height="80" width="100" src="img/fran-dev.jpg">
 
 </div>
 
