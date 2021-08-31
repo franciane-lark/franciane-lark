@@ -43,6 +43,7 @@ Welcome to my profile!
   <a href="https://www.linkedin.com/in/franciane-lark/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
-   <img align="right" alt="Fran-Dev" height="80" width="100" src="img/fran-dev.jpg">
+ <br>
+    <img align="right" alt="Fran-Dev" height="80" width="100" src="img/fran-dev.jpg">
   
 <!--  Parte 4  (Snake)-->
