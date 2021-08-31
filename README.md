@@ -27,7 +27,7 @@ Welcome to my profile!
   
   <img align="center" alt="Fran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
-  <img align="right" alt="Fran-yoda" height="80" width="100" src="img/fran-dev.jpg">
+ 
 
 </div>
 
@@ -43,5 +43,6 @@ Welcome to my profile!
   <a href="https://www.linkedin.com/in/franciane-lark/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
+   <img align="right" alt="Fran-Dev" height="80" width="100" src="img/fran-dev.jpg">
   
 <!--  Parte 4  (Snake)-->
