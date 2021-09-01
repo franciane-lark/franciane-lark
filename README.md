@@ -4,7 +4,7 @@
  
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
   - 💬 Pronouns: She/Her
-  - 🔭 Development Front - End Jr
+  - 🔭 Development Front - End Jr (Sandynha)
   - 💚 Volunter in Vue at Codivas - Beginner
   - 🌱 Studying JS and React - Beginner
   - 📈 Speaking in English - Intermediary
