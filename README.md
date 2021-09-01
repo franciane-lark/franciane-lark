@@ -32,8 +32,5 @@
   <!-- <img align="right" alt="Fran-Dev" height="80" width="100" src=""> -->
  
   ![Snake animation](https://github.com/franciane-lark/franciane-lark/blob/output/github-contribution-grid-snake.svg)
- 
  </div>
-<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-
 
