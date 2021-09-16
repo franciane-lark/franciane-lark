@@ -4,10 +4,10 @@
  
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
   - 💬 Pronouns: She/Her
-  - 🔭 Development Front - End Jr (Sandynha)
-  - 💚 Volunter in Vue at Codivas - Beginner
-  - 🌱 Studying JS and React - Beginner
   - 📈 Speaking in English - Intermediary
+  - 🔭 Development Front-End Jr (Sandynha)
+  - 💚 Volunter in Vue at Codivas - Beginner
+  - 🌱 Studying JavaScript and React - Beginner
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <div style="display: inline-block"><br>
     <a href="https://www.youtube.com/channel/UC6R-xadnaCDyWgyG9dM2gAA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
