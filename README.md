@@ -7,7 +7,7 @@
   - 💚 Volunter at Codivas
   - 🌱 Studying PHP / SQL Server - Beginner
   - 📈 Speaking in English - Intermediary ( B1 )
-  - C / Html5 / Css3 / JavaScript - Intermediary
+  - C / Html5 / CSS3 / JavaScript - Intermediary
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <div style="display: inline-block"><br>
     <a href="https://www.youtube.com/channel/UC6R-xadnaCDyWgyG9dM2gAA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
