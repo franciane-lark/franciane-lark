@@ -4,7 +4,6 @@
  
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
   - 💬 Pronouns: She/Her
-  - 💚 Volunter at Codivas
   - 🌱 Studying PHP / SQL Server - Beginner
   - 📈 Speaking in English - Intermediary ( B1 )
   - C / Html5 / CSS3 / JavaScript - Intermediary
