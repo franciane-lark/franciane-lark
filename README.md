@@ -11,7 +11,7 @@
   - 🌱 Studying PHP / SQL Server - Beginner :yellow_heart:
   - 📈 Speaking in English - Intermediary ( B1 ) :yellow_heart:
   - C / Html5 / CSS3 / JavaScript - Intermediary :yellow_heart:
-  - 
+
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
  <div style="display: inline-block"><br>
