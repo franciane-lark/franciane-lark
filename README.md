@@ -1,12 +1,12 @@
 ###  I'm Fran... :computer: 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
- Welcome to my profile! :computer_mouse:
+ Welcome to my profile! :computer_mouse: :yellow_heart:
  
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-  - 💬 Pronouns: She/Her
-  - 🌱 Studying PHP / SQL Server - Beginner
-  - 📈 Speaking in English - Intermediary ( B1 )
-  - C / Html5 / CSS3 / JavaScript - Intermediary
+  - 💬 Pronouns: She/Her :yellow_heart:
+  - 🌱 Studying PHP / SQL Server - Beginner :yellow_heart:
+  - 📈 Speaking in English - Intermediary ( B1 ) :yellow_heart:
+  - C / Html5 / CSS3 / JavaScript - Intermediary :yellow_heart:
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
  <div style="display: inline-block"><br>
   <a href="https://github.com/franciane-lark">
