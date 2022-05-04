@@ -8,7 +8,7 @@
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
   - 💬 Pronouns: She/Her :yellow_heart:
-  - 🌱 Studying PHP / SQL Server - Beginner :yellow_heart:
+  - 🌱 Studying Vue Js - Beginner :yellow_heart:
   - 📈 Speaking in English - Intermediary ( B1 ) :yellow_heart:
   - C / Html5 / CSS3 / JavaScript - Intermediary :yellow_heart:
 
@@ -23,7 +23,6 @@
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
  <div style="display: inline-block"><br>
-  <img align="center" alt="Luan-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
