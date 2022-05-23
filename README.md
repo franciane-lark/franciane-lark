@@ -10,7 +10,7 @@
   - 💬 Pronouns: She/Her :yellow_heart:
   - 🌱 Studying Vue Js - Beginner :yellow_heart:
   - 📈 Speaking in English - Intermediary ( B1 ) :yellow_heart:
-  - C / Html5 / CSS3 / JavaScript - Intermediary :yellow_heart:
+  - C / Html5 / CSS3 / JavaScript / Bootstrap5 - Intermediary :yellow_heart:
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
