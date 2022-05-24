@@ -8,9 +8,9 @@
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
   - 💬 Pronouns: She/Her :yellow_heart:
+  - I'm a Freelancer in the jobs :yellow_heart:
   - 🌱 Front=End - Coletivo Codivas:yellow_heart:
   - 📈 Speaking in English - Intermediary ( B1 ) :yellow_heart:
-  - C / Html5 / CSS3 / JavaScript - Intermediary :yellow_heart:
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
