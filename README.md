@@ -8,9 +8,9 @@
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
   - 💬 Pronouns: She/Her :yellow_heart:
-  - 🌱 Studying Vue Js - Beginner :yellow_heart:
+  - 🌱 Front=End - Coletivo Codivas:yellow_heart:
   - 📈 Speaking in English - Intermediary ( B1 ) :yellow_heart:
-  - C / Html5 / CSS3 / JavaScript / Bootstrap5 - Intermediary :yellow_heart:
+  - C / Html5 / CSS3 / JavaScript - Intermediary :yellow_heart:
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -25,11 +25,12 @@
  <div style="display: inline-block"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
+ <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png">
-  <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luan-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   
   ![Snake animation](https://github.com/franciane-lark/franciane-lark/blob/output/github-contribution-grid-snake.svg)
  </div>
