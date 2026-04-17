@@ -34,4 +34,7 @@ Welcome to my profile! 🖱️💛
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciane-lark&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+![Fran GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=radical)
 
