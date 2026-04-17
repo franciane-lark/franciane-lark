@@ -36,5 +36,5 @@ Welcome to my profile! 🖱️💛
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-![Fran GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=radical)
+![Fran GitHub stats](https://github-readme-stats.vercel.app/api?username=franciane-lark&show_icons=true&theme=radical)
 
