@@ -10,7 +10,7 @@ Welcome to my profile! 🖱️💛
 
 - 💬 Pronouns: She/Her 💛  
 - 💼 I work as a freelancer 💛  
-- 📈 I speak English - Intermediate (B1) 💛  
+- 📈 I speak English - Intermediate 💛  
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
